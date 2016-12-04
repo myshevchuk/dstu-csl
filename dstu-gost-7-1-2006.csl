@@ -29,7 +29,7 @@
         <single> с.</single>
         <multiple> с.</multiple>
       </term>
-      <term name="volume" form="short">Т. </term>
+      <term name="volume" form="short">Вип. </term>
       <term name="issue" form="short">№ </term>
       <term name="editor" form="short">
         <single>ред. </single>
