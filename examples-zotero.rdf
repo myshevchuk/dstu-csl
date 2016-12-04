@@ -1,0 +1,551 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="#item_6343">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ленинград</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Химия</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Беспамятнов</foaf:surname>
+                        <foaf:givenname>Г.П.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Кротов</foaf:surname>
+                        <foaf:givenname>Ю.А.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>окружающая среда</dc:subject>
+        <dc:subject>ПДК</dc:subject>
+        <dc:date>1985</dc:date>
+        <dc:title>Предельно-допустимые концентрации химических веществ в окружающей среде: Справочник</dc:title>
+        <z:numPages>528</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6344">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Донецьк</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Донбас</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Гришко</foaf:surname>
+                        <foaf:givenname>В.М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Сищиков</foaf:surname>
+                        <foaf:givenname>Д.В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Піскова</foaf:surname>
+                        <foaf:givenname>О.М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Данильчук</foaf:surname>
+                        <foaf:givenname>О.В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Машталер</foaf:surname>
+                        <foaf:givenname>Н.В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2012</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>+</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:language>uk</z:language>
+        <dc:title>Важкі метали: надходження в ґрунти, транслокація у рослинах та екологічна небезпека</dc:title>
+        <z:numPages>304</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6345">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Харьков</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Міськдрук</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Медведев</foaf:surname>
+                        <foaf:givenname>В.В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>почвы</dc:subject>
+        <dc:date>2012</dc:date>
+        <dc:title>Мониторинг почв Украины</dc:title>
+        <z:numPages>535</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6346">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Недра</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Сает</foaf:surname>
+                        <foaf:givenname>Ю.Е.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ревич</foaf:surname>
+                        <foaf:givenname>Б.А.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Янин</foaf:surname>
+                        <foaf:givenname>Е.П.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>геохимия</dc:subject>
+        <dc:subject>почвы</dc:subject>
+        <dc:date>1990</dc:date>
+        <dc:title>Геохимия окружающей среды</dc:title>
+        <z:numPages>335</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_6347">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ВО «Агропромиздат»</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Шишов</foaf:surname>
+                        <foaf:givenname>Л.Л.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Дурманов</foaf:surname>
+                        <foaf:givenname>Д.Н.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Карманов</foaf:surname>
+                        <foaf:givenname>И.И.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ефремов</foaf:surname>
+                        <foaf:givenname>В.В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>почвы</dc:subject>
+        <dc:date>1991</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>+</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:title>Теоретические основы и пути регулирования плодородия почв</dc:title>
+        <z:numPages>304</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=vnanu_2009_5_4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0372-6436"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Гончарук</foaf:surname>
+                        <foaf:givenname>В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Білявський</foaf:surname>
+                        <foaf:givenname>Г.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ковальов</foaf:surname>
+                        <foaf:givenname>М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Рубцов</foaf:surname>
+                        <foaf:givenname>Г.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6349"/>
+        <link:link rdf:resource="#item_6350"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=vnanu_2009_5_4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>22-29</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>+</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dcterms:dateSubmitted>2016-11-24 13:31:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.irbis-nbuv.gov.ua</z:libraryCatalog>
+        <dc:title>Національна екологічна безпека та екологічна паспортизація водних об’єктів</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0372-6436">
+        <prism:number>5</prism:number>
+        <dc:title>Вісник Національної академії наук України</dc:title>
+        <dc:identifier>ISSN 0372-6436</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_6349">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&amp;I21DBN=UJRN&amp;P21DBN=UJRN&amp;IMAGE_FILE_DOWNLOAD=1&amp;Image_file_name=PDF/vnanu_2009_5_4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-24 13:31:52</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_6350">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=vnanu_2009_5_4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-24 13:31:55</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=Nvvnug_2013_16_5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1729-360X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Нікіпелова</foaf:surname>
+                        <foaf:givenname>О.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Леонова</foaf:surname>
+                        <foaf:givenname>С.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Горбач</foaf:surname>
+                        <foaf:givenname>Л.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Солодова</foaf:surname>
+                        <foaf:givenname>Л.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ніколенко</foaf:surname>
+                        <foaf:givenname>С.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Алексєєнко</foaf:surname>
+                        <foaf:givenname>Н.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6352"/>
+        <link:link rdf:resource="#item_6353"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=Nvvnug_2013_16_5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>17-23</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>+</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dcterms:dateSubmitted>2016-11-17 11:29:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.irbis-nbuv.gov.ua</z:libraryCatalog>
+        <z:language>uk</z:language>
+        <dc:title>Медико-біологічна оцінка якості та цінності підземних вод джерел № 1, 4–10 у с. Лотатники Стрийського району Львівської області щодо обґрунтування можливості їх фасування</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1729-360X">
+        <prism:number>16</prism:number>
+        <dc:title>Науковий вісник Східноєвропейського національного університету імені Лесі Українки. Географічні науки</dc:title>
+        <dc:identifier>ISSN 1729-360X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_6352">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&amp;I21DBN=UJRN&amp;P21DBN=UJRN&amp;IMAGE_FILE_DOWNLOAD=1&amp;Image_file_name=PDF/Nvvnug_2013_16_5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-17 11:29:59</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_6353">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=Nvvnug_2013_16_5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-17 11:29:59</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=vvpi_2013_3_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1997-9274"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Семчук</foaf:surname>
+                        <foaf:givenname>Ю. С.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ящолт</foaf:surname>
+                        <foaf:givenname>А. Р.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6355"/>
+        <link:link rdf:resource="#item_6356"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=vvpi_2013_3_6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>17-21</bib:pages>
+        <dc:date>2013</dc:date>
+        <dcterms:dateSubmitted>2016-11-24 18:18:24</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.irbis-nbuv.gov.ua</z:libraryCatalog>
+        <dc:title>Геостатистичний аналіз забруднення ґрунтових вод за даними спостережень якості колодязної води регіону</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1997-9274">
+        <prism:number>3</prism:number>
+        <dc:title>Вісник Вінницького політехнічного інституту</dc:title>
+        <dc:identifier>ISSN 1997-9274</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_6355">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&amp;I21DBN=UJRN&amp;P21DBN=UJRN&amp;IMAGE_FILE_DOWNLOAD=1&amp;Image_file_name=PDF/vvpi_2013_3_6.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-24 18:18:24</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_6356">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&amp;P21DBN=UJRN&amp;Z21ID=&amp;S21REF=10&amp;S21CNR=20&amp;S21STN=1&amp;S21FMT=ASP_meta&amp;C21COM=S&amp;2_S21P03=FILA=&amp;2_S21STR=vvpi_2013_3_6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-24 18:18:24</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&amp;I21DBN=UJRN&amp;P21DBN=UJRN&amp;IMAGE_FILE_DOWNLOAD=1&amp;Image_file_name=PDF/nvmduc_2014_6.2_14.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>2</prism:number>
+                <dc:title>Науковий вісник Миколаївського державного університету імені В.О. Сухомлинського</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Смирнова</foaf:surname>
+                        <foaf:givenname>С. М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Смирнов</foaf:surname>
+                        <foaf:givenname>В. М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Багатюк</foaf:surname>
+                        <foaf:givenname>Д. В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6358"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&amp;I21DBN=UJRN&amp;P21DBN=UJRN&amp;IMAGE_FILE_DOWNLOAD=1&amp;Image_file_name=PDF/nvmduc_2014_6.2_14.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>57–63</bib:pages>
+        <dc:date>2014</dc:date>
+        <dcterms:dateSubmitted>2016-11-17 11:28:30</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Оцінка можливості використання підземних джерел води в якості питної води на прикладі мікрорайону Терновка міста Миколаєва</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_6358">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&amp;I21DBN=UJRN&amp;P21DBN=UJRN&amp;IMAGE_FILE_DOWNLOAD=1&amp;Image_file_name=PDF/nvmduc_2014_6.2_14.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-11-17 11:28:22</dcterms:dateSubmitted>
+        <dc:title>cgiirbis_64.pdf</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.uran.ua/index.php/0153-1826/article/view/36706">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>40 (1098)</prism:number>
+                <dc:title>Вісник Харківського національного університету імені В.Н. Каразіна</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Яковлєв</foaf:surname>
+                        <foaf:givenname>Валерій Володимирович</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.uran.ua/index.php/0153-1826/article/view/36706</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>63–72</bib:pages>
+        <dc:date>2014</dc:date>
+        <dcterms:dateSubmitted>2016-11-20 17:39:50</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Джерельні води Харківської області як джерело питного водопостачання</dc:title>
+    </bib:Article>
+    <bib:Legislation rdf:about="#item_6362">
+        <z:itemType>statute</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Part><dc:title>Київ</dc:title></bib:Part>
+        </dcterms:isPartOf>
+        <bib:pages>46</bib:pages>
+        <z:code>Керівний нормативний документ</z:code>
+        <z:session>Держкомекології</z:session>
+        <z:history>1999</z:history>
+        <z:codeNumber>КНД</z:codeNumber>
+        <dc:date>1999-04-24</dc:date>
+        <prism:number>41-00032626-00-326-99</prism:number>
+        <dc:title>Визначення забруднення ґрунтів навколо бурових площадок (методичні вказівки)</dc:title>
+    </bib:Legislation>
+    <bib:Legislation rdf:about="#item_6363">
+        <z:itemType>statute</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Part><dc:title>Київ</dc:title></bib:Part>
+        </dcterms:isPartOf>
+        <bib:pages>28</bib:pages>
+        <z:code>Національний стандарт України</z:code>
+        <z:session>Держспоживстандарт України</z:session>
+        <z:history>2006</z:history>
+        <z:codeNumber>ДСТУ</z:codeNumber>
+        <dc:date>2004-12-09</dc:date>
+        <prism:number>4362:2004</prism:number>
+        <dc:title>Якість ґрунту. Показники родючості ґрунтів</dc:title>
+    </bib:Legislation>
+</rdf:RDF>
